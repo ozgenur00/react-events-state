@@ -1,0 +1,7 @@
+.EightBall {
+    transition: background-color 0.5s ease;
+    margin: 50px;
+    justify-content: center;
+    box-shadow: 10px 10px 10px 20px rgba(0, 0, 0, 0.133);
+  }
+  
